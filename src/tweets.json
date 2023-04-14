@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "imgsrc": "/images/cat2.webp",
+        "username": "پیام بر",
+        "userid": "@pakaka",
+        "time": "31s",
+        "tweets": "بی‌تو حرام است به خلوت نشست\nحیف بود در به چنین روی بست\nدامن دولت چو به دست اوفتاد\nگر بهلی باز نیاید به دست\nاین چه نظر بود که خونم بریخت؟\nوین چه نمک بود که ریشم بخست؟\nهر که بیفتاد به تیرت نخاست\nوان که درآمد به کمندت نجست\nما به تو یکباره مقید شدیم\nمرغ به دام آمد و ماهی به شست\nصبر قفا خورد و به راهی گریخت\nعقل بلا دید و به کنجی نشست\nبار مذلت بتوانم کشید\nعهد محبت نتوانم شکست",
+        "hashtag": "#OpIran#mahsaamini",
+        "showThread": true,
+        "like":"128",
+        "retweet":"55",
+        "comment":"39"
+    },
+    {
+        "imgsrc": "/images/cat1.jpeg",
+        "username": "shellsa",
+        "userid": "@shellkarimi",
+        "time": "47s",
+        "tweets": "الی ای ترک ساروی...",
+        "hashtag": "#OpIran#mahsaamini",
+        "showThread": false,
+        "like":"800",
+        "retweet":"55",
+        "comment":"37",
+        "acts":true,
+        "actsname":"MoMo and parnian liked"
+    }  ,  
+    {
+        "imgsrc": "/images/cat3.jpeg",
+        "username": "Likeflask",
+        "userid": "@flaskechay",
+        "time": "1h",
+        "tweets": "غذا خوردم و خوشحالم!",
+        "hashtag": "#OpIran#mahsaamini",
+        "acts":true,
+                "actsname":"Kadikoy  and lll liked"
+
+    }
+]
